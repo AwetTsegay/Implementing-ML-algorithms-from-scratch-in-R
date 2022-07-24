@@ -1,1 +1,1 @@
-# Implementing-ML-algorithms-from-scratch-in-R
+# Implementing-Logistic regression-algorithms-from-scratch-in-R
