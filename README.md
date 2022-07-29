@@ -1,1 +1,1 @@
-# Implementing-Logistic-regression-algorithm-from-scratch-in-R
+# Implementing-Logistic-Regression-Algorithm-from-scratch-in-R
